@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: location-organizations-mzd
+  description: MZD 그룹
+spec:
+  targets:
+    - ./groups/company.yaml
+    - ./groups/department-dxlabs.yaml
+    - ./groups/team-platform-architecture.yaml
+    - ./groups/team-cloud-transformation.yaml
+    - ./groups/team-ux-development.yaml
