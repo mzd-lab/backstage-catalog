@@ -4,6 +4,5 @@ metadata:
   name: location-domains
 spec:
   targets:
-    - ./domains/backstage.yaml
-    - ./domains/iiac.yaml
-
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/catalogs/domains/backstage.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/catalogs/domains/iiac.yaml

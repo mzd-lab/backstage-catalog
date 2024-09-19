@@ -10,34 +10,7 @@ spec:
   type: 팀
   profile:
     displayName: Platform Architect Lab
-    email: mz@mz.co.kr
+    email: mzd-pa@mz.co.kr
     picture: https://shareditassets.s3.ap-northeast-2.amazonaws.com/production/uploads/business/profile_photo/2476/low_%E1%84%86%E1%85%A6%E1%84%80%E1%85%A1%E1%84%8C%E1%85%A9%E1%86%AB_%E1%84%83%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%90%E1%85%A5%E1%86%AF.png
   parent: mzd-department-dxlabs
   children: []
----
-apiVersion: backstage.io/v1alpha1
-kind: User
-metadata:
-  name: moohouse
-spec:
-  profile:
-    displayName: 김씨
-    email: moohouse@mz.co.kr
-    picture: https://i.namu.wiki/i/h1dQdpZsVQr0j14WheZ2qCaVnIzo_Rk6TbwOXAk6gve7AJgi-E20buwhtoUZNNCc9JaNlwwSjYdl9E2v-8JSHg.webp
-  memberOf:
-    - mzd-department-dxlabs
-    - mzd-team-platform-architecture
----
-apiVersion: backstage.io/v1alpha1
-kind: User
-metadata:
-  name: Moo
-spec:
-  profile:
-    displayName: 김씨-Github
-    email: moo@moo.so
-    picture: https://mblogthumb-phinf.pstatic.net/MjAyMDExMTdfMTA2/MDAxNjA1NTgzMzE5OTY2.kuB00JP2pUu_CyBRhMGrEVtWFlgtFNkYvG5-CyExS1og.JpoVdH4SbWzL29plHCH8xGTfYvgP1OouMiaH5_PzXogg.JPEG.jjongski2/IMG_3224.JPG?type=w800
-  memberOf:
-    - mzd-department-dxlabs
-    - mzd-team-platform-architecture
-

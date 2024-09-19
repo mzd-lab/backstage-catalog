@@ -5,8 +5,9 @@ metadata:
   description: MZD 그룹
 spec:
   targets:
-    - ./groups/company.yaml
-    - ./groups/department-dxlabs.yaml
-    - ./groups/team-platform-architecture.yaml
-    - ./groups/team-cloud-transformation.yaml
-    - ./groups/team-ux-development.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/department-dxlabs.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/team-platform-architecture.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/team-cloud-transformation.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/team-ux-development.yaml

@@ -5,5 +5,5 @@ metadata:
   description: A collection of all Backstage example systems
 spec:
   targets:
-    - ./systems/backstage.yaml
-    - ./systems/incheondfs.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/catalogs/systems/backstage.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/catalogs/systems/incheondfs.yaml

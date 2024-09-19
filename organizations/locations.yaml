@@ -4,4 +4,4 @@ metadata:
   name: locations
 spec:
   targets:
-    - ./mzd/location.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/location.yaml
