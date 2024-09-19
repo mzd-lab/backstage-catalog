@@ -11,5 +11,5 @@ metadata:
 spec:
   type: s3-bucket
   lifecycle: production
-  owner: devops
+  owner: mzd-department-dxlabs
   system: megazone-idp

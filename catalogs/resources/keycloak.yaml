@@ -11,5 +11,5 @@ metadata:
 spec:
   type: identity-provider
   lifecycle: production
-  owner: devops
+  owner: mzd-department-dxlabs
   system: megazone-idp
