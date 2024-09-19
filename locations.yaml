@@ -4,6 +4,9 @@ metadata:
   name: locations
 spec:
   targets:
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/domains.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/systems.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/apis.yaml
     - https://github.com/mzd-lab/backstage-catalog/blob/main/components.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/domains.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/resources.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/systems.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/templates.yaml
