@@ -15,4 +15,4 @@ spec:
   owner: devops
   lifecycle: production
   definition:
-    $text: https://github.com/jiman94/backstage-megazone/blob/main/catalog-entities/apis/nexus-swagger.json
+    $text: https://bitbucket.org/architecturelabs/backstage-catalog/src/main/catalogs/apis/nexus-swagger.json

@@ -5,6 +5,6 @@ metadata:
   description: A collection of all Backstage example systems
 spec:
   targets:
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/catalogs/systems/backstage.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/catalogs/systems/incheondfs.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/catalogs/systems/megazone.yaml
+    - https://bitbucket.org/architecturelabs/backstage-catalog/src/main/catalogs/systems/backstage.yaml
+    - https://bitbucket.org/architecturelabs/backstage-catalog/src/main/catalogs/systems/incheondfs.yaml
+    - https://bitbucket.org/architecturelabs/backstage-catalog/src/main/catalogs/systems/megazone.yaml
