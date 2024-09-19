@@ -10,9 +10,9 @@ spec:
     - https://github.com/mzd-lab/backstage-catalog/blob/main/templates/github/spring-boot-backend/template.yaml
     - https://github.com/mzd-lab/backstage-catalog/blob/main/templates/github/argocd/template.yaml
     - https://github.com/mzd-lab/backstage-catalog/blob/main/templates/github/techdocs/template.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/scaffolder-templates/clean-architecture-app/template.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/scaffolder-templates/create-react-app/template.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/scaffolder-templates/docs-template/template.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/scaffolder-templates/docs-template-cookiecutter/template.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/scaffolder-templates/pull-request/template.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/scaffolder-templates/springboot-grpc-template/template.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/templates/scaffolder-templates/clean-architecture-app/template.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/templates/scaffolder-templates/create-react-app/template.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/templates/scaffolder-templates/docs-template/template.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/templates/scaffolder-templates/docs-template-cookiecutter/template.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/templates/scaffolder-templates/pull-request/template.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/templates/scaffolder-templates/springboot-grpc-template/template.yaml
