@@ -1,0 +1,18 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: location-templates
+spec:
+  type: url
+  targets:
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/templates/github/nodejs-backend/template.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/templates/gitlab/python-backend/template.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/templates/github/spring-boot-backend/template.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/templates/github/argocd/template.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/templates/github/techdocs/template.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/scaffolder-templates/clean-architecture-app/template.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/scaffolder-templates/create-react-app/template.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/scaffolder-templates/docs-template/template.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/scaffolder-templates/docs-template-cookiecutter/template.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/scaffolder-templates/pull-request/template.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/scaffolder-templates/springboot-grpc-template/template.yaml

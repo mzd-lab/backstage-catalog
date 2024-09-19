@@ -7,3 +7,4 @@ spec:
   targets:
     - https://github.com/mzd-lab/backstage-catalog/blob/main/catalogs/systems/backstage.yaml
     - https://github.com/mzd-lab/backstage-catalog/blob/main/catalogs/systems/incheondfs.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/catalogs/systems/megazone.yaml

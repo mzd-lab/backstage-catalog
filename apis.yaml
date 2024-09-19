@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: location-apis
+spec:
+  targets:
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/catalogs/apis/petstore.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/catalogs/apis/argocd.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/catalogs/apis/nexus-repo-manager-3.yaml
+
