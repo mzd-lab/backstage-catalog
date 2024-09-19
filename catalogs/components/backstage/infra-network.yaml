@@ -5,9 +5,9 @@ metadata:
   title: Terraform Network
   description: Terraform Network
   links:
-    - url: https://bitbucket.org/mz-backstage/bs-terraform
-      title: Bitbucket Repo
-      icon: bitbucket
+    - url: https://github.com/mzd-lab/terraform
+      title: GitHub
+      icon: github
   annotations:
     backstage.io/source-location: url:https://github.com/mzd-lab/terraform
     terraform/organization: MZD
