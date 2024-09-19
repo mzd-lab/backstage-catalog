@@ -27,7 +27,7 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: jiman94
+  name: jimanryu
 spec:
   profile:
     displayName: jmryu
