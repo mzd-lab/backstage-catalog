@@ -30,7 +30,7 @@ metadata:
   name: jimanryu
 spec:
   profile:
-    displayName: jmryu
+    displayName: jimanryu
     email: jmryu@mz.co.kr
   memberOf:
     - mzd-department-dxlabs
