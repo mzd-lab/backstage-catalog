@@ -5,6 +5,6 @@ metadata:
   name: system-commerce
   title: commerce
 spec:
-  owner: mzd-department-dxlabs
-  domain: domain-backstage
+  owner: mzd-team-platform-architecture
+  domain: domain-commerce
   type: service

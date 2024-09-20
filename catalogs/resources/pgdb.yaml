@@ -14,5 +14,5 @@ metadata:
 spec:
   type: database
   lifecycle: production
-  owner: mzd-department-dxlabs
+  owner: mzd-team-platform-architecture
   system: megazone-idp
