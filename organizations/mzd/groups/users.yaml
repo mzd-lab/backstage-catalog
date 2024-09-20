@@ -47,3 +47,15 @@ spec:
   memberOf:
     - mzd-department-dxlabs
     - mzd-team-platform-architecture
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: nasamjang
+spec:
+  profile:
+    displayName: nasamjang
+    email: nasamjang@mz.co.kr
+  memberOf:
+    - mzd-department-dxlabs
+    - mzd-team-platform-architecture
