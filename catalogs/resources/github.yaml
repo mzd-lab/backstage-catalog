@@ -5,7 +5,7 @@ metadata:
   title: GitHub Backstage Custom repository
   description: We store our deployment manifests and code for the Backstage in this GitHub repository.
   links:
-    - url: https://github.com/jiman94/backstage-megazone
+    - url: https://github.com/mzd-lab/backstage-megazone
       title: GitHub Repository
       icon: web
 spec:
