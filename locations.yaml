@@ -4,8 +4,8 @@ metadata:
   name: locations
 spec:
   targets:
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamlapis.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamlcomponents.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamldomains.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamlresources.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamlsystems.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/apis.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/components.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/domains.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/resources.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/systems.yaml

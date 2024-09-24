@@ -5,10 +5,10 @@ metadata:
   description: A collection of all resources
 spec:
   targets:
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamlcatalogs/resources/pgdb.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamlcatalogs/resources/argocd.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamlcatalogs/resources/obc.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamlcatalogs/resources/keycloak.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamlcatalogs/resources/github.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamlcatalogs/resources/sonarqube.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamlcatalogs/resources/nexus.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/catalogs/resources/pgdb.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/catalogs/resources/argocd.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/catalogs/resources/obc.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/catalogs/resources/keycloak.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/catalogs/resources/github.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/catalogs/resources/sonarqube.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/catalogs/resources/nexus.yaml

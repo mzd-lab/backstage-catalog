@@ -5,8 +5,8 @@ metadata:
 spec:
   type: url
   targets:
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamltemplates/github/spring-boot-backend/template.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamltemplates/scaffolder-templates/clean-architecture-app/template.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamltemplates/scaffolder-templates/create-react-app/template.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamltemplates/scaffolder-templates/springboot-grpc-template/template.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamltemplates/scaffolder-templates/react-ssr-template/template.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/templates/github/spring-boot-backend/template.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/templates/scaffolder-templates/clean-architecture-app/template.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/templates/scaffolder-templates/create-react-app/template.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/templates/scaffolder-templates/springboot-grpc-template/template.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/templates/scaffolder-templates/react-ssr-template/template.yaml

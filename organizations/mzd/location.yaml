@@ -5,9 +5,9 @@ metadata:
   description: MZD 그룹
 spec:
   targets:
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamlorganizations/mzd/groups/company.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamlorganizations/mzd/groups/department-dxlabs.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamlorganizations/mzd/groups/team-platform-architecture.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamlorganizations/mzd/groups/team-cloud-transformation.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamlorganizations/mzd/groups/team-ux-development.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamlorganizations/mzd/groups/users.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/department-dxlabs.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/team-platform-architecture.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/team-cloud-transformation.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/team-ux-development.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/users.yaml

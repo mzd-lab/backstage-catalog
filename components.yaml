@@ -4,5 +4,5 @@ metadata:
   name: location-components
 spec:
   targets:
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamlcatalogs/components/backstage/infra-network.yaml
-    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamlcatalogs/components/starter/starter.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/catalogs/components/backstage/infra-network.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/catalogs/components/starter/starter.yaml

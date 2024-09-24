@@ -14,4 +14,4 @@ spec:
   owner: devops
   lifecycle: production
   definition:
-    $text: https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamlcatalogs/apis/argocd-api.yaml
+    $text: https://github.com/mzd-lab/backstage-catalog/blob/main/catalogs/apis/argocd-api.yaml
