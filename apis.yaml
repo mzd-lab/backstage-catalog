@@ -4,7 +4,7 @@ metadata:
   name: location-apis
 spec:
   targets:
-    - https://bitbucket.org/architecturelabs/backstage-catalog/src/main/catalogs/apis/petstore.yaml
-    - https://bitbucket.org/architecturelabs/backstage-catalog/src/main/catalogs/apis/argocd.yaml
-    - https://bitbucket.org/architecturelabs/backstage-catalog/src/main/catalogs/apis/nexus-repo-manager-3.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamlcatalogs/apis/petstore.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamlcatalogs/apis/argocd.yaml
+    - https://github.com/mzd-lab/backstage-catalog/blob/main/organizations/mzd/groups/company.yamlcatalogs/apis/nexus-repo-manager-3.yaml
 
